@@ -7,7 +7,7 @@ body {
 header {
   background-color: #333;
   color: #fff;
-  padding: 1em;
+  padding: 1%;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2em;
+  padding: 2%;
 }
 
 article {
@@ -40,7 +40,7 @@ article {
 }
 
 figure {
-  margin: 1em 0;
+  margin: 1% 0;
 }
 
 figure img {
@@ -55,14 +55,14 @@ figcaption {
 
 aside {
   background-color: #f9f9f9;
-  padding: 1em;
-  margin: 1em 0;
+  padding: 1%;
+  margin: 1% 0;
 }
 
 footer {
   background-color: #333;
   color: #fff;
-  padding: 1em;
+  padding: 1%;
   text-align: center;
   clear: both;
 }
